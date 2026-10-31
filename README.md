@@ -138,3 +138,9 @@ It represents a simulated enterprise network environment and was not deployed on
 Project Name: Operation Enterprise HQ Network
 Domain: Computer Networking
 Focus: Enterprise Network Administration and Security
+
+📸 Project Screenshots
+
+The following screenshots demonstrate the network topology, VLAN configuration, routing, server services, and connectivity testing performed in Cisco Packet Tracer.
+
+All screenshots are available in the ""packet-tracer/screenshots/"" (packet-tracer/screenshots/) folder.
